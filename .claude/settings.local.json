@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"E:\\\\2_material_radar\")"
+    ]
+  }
+}

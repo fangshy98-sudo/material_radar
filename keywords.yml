@@ -1,0 +1,56 @@
+include:
+  # 雾化芯类型
+  - mesh coil
+  - mesh 网片
+  - 网片雾化芯
+  - 棉芯
+  - cotton wick
+  - 陶瓷雾化芯
+  - ceramic coil
+  - ceramic atomizer
+  - 雾化芯
+
+  # 发热丝/合金
+  - kanthal
+  - ni80
+  - ss316
+  - nichrome
+  - 镍铬
+  - 加热丝
+  - heating wire
+  - resistance wire
+
+  # 高分子/绝缘材料
+  - 硅胶
+  - silicone
+  - PEEK
+  - PCTG
+  - PFA
+  - food-grade plastic
+  - 食品级塑料
+  - 食品级硅胶
+
+  # 通用材料话题
+  - 雾化材料
+  - atomizer material
+  - 雾化器材料
+  - vape material
+
+  # 替代/降本主题
+  - 替代材料
+  - alternative material
+  - 国产替代
+  - cost reduction
+  - 降本
+
+exclude:
+  - 优惠
+  - 促销
+  - 折扣
+  - 招聘
+  - hiring
+  - sponsored
+  - 广告
+  - 转让
+  - 代理招募
+  - press release
